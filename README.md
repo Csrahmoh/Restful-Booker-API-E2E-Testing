@@ -41,4 +41,4 @@ The goal of this project is to validate the core functionalities of the [Restful
     * Click **Run Restful-Booker Suite**.
 
 ---
-**Contact:** Rahaf Almohammadi. - linkedin.com/in/rahaf-almohammadi-/?skipRedirect=true.
+**Contact:** Rahaf Almohammadi. - www.linkedin.com/in/rahaf-almohammadi-.
